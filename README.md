@@ -5,6 +5,10 @@
 
 This project is an isolated Linux-native .NET 9 application designed to integrate with the Viator Partner API. It will retrieve data such as products, bookings, availability, and cancellations from Viator and store them in a PostgreSQL database. It also provides secure API endpoints for internal service consumption and an admin UI for service status and logs.
 
+Api Docs: https://docs.viator.com/partner-api/technical/
+Api Guideline: https://partnerresources.viator.com/travel-commerce/technical-guide/
+
+
 ---
 
 ## 🔧 Technologies and Architecture
